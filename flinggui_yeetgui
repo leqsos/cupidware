@@ -124,4 +124,4 @@ TextButton.MouseButton1Click:Connect(function()
 end)
 
 --//fsddfsdf
-notif("Loaded successfully! Created by scuba#0001", 5)
+notif("loaded, now go get'em.", 5)
